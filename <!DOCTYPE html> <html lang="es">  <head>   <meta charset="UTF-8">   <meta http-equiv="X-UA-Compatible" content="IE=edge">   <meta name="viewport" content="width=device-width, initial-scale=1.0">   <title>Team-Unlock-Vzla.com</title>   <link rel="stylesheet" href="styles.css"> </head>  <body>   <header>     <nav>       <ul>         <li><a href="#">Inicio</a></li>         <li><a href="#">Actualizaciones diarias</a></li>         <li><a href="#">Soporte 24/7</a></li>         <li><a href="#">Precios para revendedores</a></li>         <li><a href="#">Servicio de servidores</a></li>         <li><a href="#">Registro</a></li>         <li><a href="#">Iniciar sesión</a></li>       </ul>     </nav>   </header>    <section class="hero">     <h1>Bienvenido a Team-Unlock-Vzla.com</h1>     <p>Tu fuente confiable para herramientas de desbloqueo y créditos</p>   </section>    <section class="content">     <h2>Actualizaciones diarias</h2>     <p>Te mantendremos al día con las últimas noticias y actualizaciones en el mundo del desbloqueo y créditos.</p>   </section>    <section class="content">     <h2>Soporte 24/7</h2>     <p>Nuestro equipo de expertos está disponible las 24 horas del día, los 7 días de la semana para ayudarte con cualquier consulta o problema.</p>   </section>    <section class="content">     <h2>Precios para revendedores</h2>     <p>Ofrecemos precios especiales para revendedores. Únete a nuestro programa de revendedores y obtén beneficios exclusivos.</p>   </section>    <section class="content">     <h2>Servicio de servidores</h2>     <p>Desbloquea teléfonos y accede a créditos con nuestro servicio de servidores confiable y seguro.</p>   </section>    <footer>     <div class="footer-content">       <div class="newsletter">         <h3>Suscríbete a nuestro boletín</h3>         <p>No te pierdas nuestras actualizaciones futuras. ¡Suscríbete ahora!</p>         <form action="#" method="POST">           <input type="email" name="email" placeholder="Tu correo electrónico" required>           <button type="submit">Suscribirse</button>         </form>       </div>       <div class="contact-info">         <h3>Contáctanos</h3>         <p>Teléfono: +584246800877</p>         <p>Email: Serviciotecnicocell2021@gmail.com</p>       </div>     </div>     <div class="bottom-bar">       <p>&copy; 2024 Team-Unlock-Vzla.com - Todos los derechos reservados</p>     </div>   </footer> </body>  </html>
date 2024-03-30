@@ -1,0 +1,74 @@
+<link rel="stylesheet" href="styles.css"><!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Team-Unlock-Vzla.com</title>
+          <link rel="stylesheet" href="styles.css">
+          </head>
+
+          <body>
+            <header>
+                <nav>
+                      <ul>
+                              <li><a href="#">Inicio</a></li>
+                                      <li><a href="#">Actualizaciones diarias</a></li>
+                                              <li><a href="#">Soporte 24/7</a></li>
+                                                      <li><a href="#">Precios para revendedores</a></li>
+                                                              <li><a href="#">Servicio de servidores</a></li>
+                                                                      <li><a href="#">Registro</a></li>
+                                                                              <li><a href="#">Iniciar sesión</a></li>
+                                                                                    </ul>
+                                                                                        </nav>
+                                                                                          </header>
+
+                                                                                            <section class="hero">
+                                                                                                <h1>Bienvenido a Team-Unlock-Vzla.com</h1>
+                                                                                                    <p>Tu fuente confiable para herramientas de desbloqueo y créditos</p>
+                                                                                                      </section>
+
+                                                                                                        <section class="content">
+                                                                                                            <h2>Actualizaciones diarias</h2>
+                                                                                                                <p>Te mantendremos al día con las últimas noticias y actualizaciones en el mundo del desbloqueo y créditos.</p>
+                                                                                                                  </section>
+
+                                                                                                                    <section class="content">
+                                                                                                                        <h2>Soporte 24/7</h2>
+                                                                                                                            <p>Nuestro equipo de expertos está disponible las 24 horas del día, los 7 días de la semana para ayudarte con cualquier consulta o problema.</p>
+                                                                                                                              </section>
+
+                                                                                                                                <section class="content">
+                                                                                                                                    <h2>Precios para revendedores</h2>
+                                                                                                                                        <p>Ofrecemos precios especiales para revendedores. Únete a nuestro programa de revendedores y obtén beneficios exclusivos.</p>
+                                                                                                                                          </section>
+
+                                                                                                                                            <section class="content">
+                                                                                                                                                <h2>Servicio de servidores</h2>
+                                                                                                                                                    <p>Desbloquea teléfonos y accede a créditos con nuestro servicio de servidores confiable y seguro.</p>
+                                                                                                                                                      </section>
+
+                                                                                                                                                        <footer>
+                                                                                                                                                            <div class="footer-content">
+                                                                                                                                                                  <div class="newsletter">
+                                                                                                                                                                          <h3>Suscríbete a nuestro boletín</h3>
+                                                                                                                                                                                  <p>No te pierdas nuestras actualizaciones futuras. ¡Suscríbete ahora!</p>
+                                                                                                                                                                                          <form action="#" method="POST">
+                                                                                                                                                                                                    <input type="email" name="email" placeholder="Tu correo electrónico" required>
+                                                                                                                                                                                                              <button type="submit">Suscribirse</button>
+                                                                                                                                                                                                                      </form>
+                                                                                                                                                                                                                            </div>
+                                                                                                                                                                                                                                  <div class="contact-info">
+                                                                                                                                                                                                                                          <h3>Contáctanos</h3>
+                                                                                                                                                                                                                                                  <p>Teléfono: +584246800877</p>
+                                                                                                                                                                                                                                                          <p>Email: Serviciotecnicocell2021@gmail.com</p>
+                                                                                                                                                                                                                                                                </div>
+                                                                                                                                                                                                                                                                    </div>
+                                                                                                                                                                                                                                                                        <div class="bottom-bar">
+                                                                                                                                                                                                                                                                              <p>&copy; 2024 Team-Unlock-Vzla.com - Todos los derechos reservados</p>
+                                                                                                                                                                                                                                                                                  </div>
+                                                                                                                                                                                                                                                                                    </footer>
+                                                                                                                                                                                                                                                                                    </body>
+
+                                                                                                                                                                                                                                                                                    </html><link rel="stylesheet" href="styles.css">
